@@ -25,10 +25,8 @@ This project serves as a practical demonstration of skills in data analytics, ma
 * **Development Environment:** Google Colab
 * **Key Python Libraries:** (e.g., Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn - please list the specific ones you used)
 
-## Project Structure (Example - Please Adjust)
-
-* `data/`: Contains the dataset(s) used for analysis (if you can share it or a sample).
-* `notebooks/`: Jupyter/Google Colab notebooks for data exploration, model development, and analysis (e.g., `Air_Pollution_Analysis.ipynb`).
-* `visualizations/`: Tableau workbooks, exported images, or links to Tableau Public dashboards.
-* `report/`: The comprehensive report detailing findings and insights (e.g., `Air_Quality_Analysis_Report.pdf`).
-* `src/`: (Optional) If you have standalone Python scripts for specific functions or utilities.
+## Project Structure
+* `notebooks/`:
+    * `Bohlman_Capstone_Final.ipynb`: Jupyter/Google Colab notebook for data exploration, model development, and analysis.
+* `visualizations/`:
+    * `Bohlman_Capstone_Tableau_Final.twbx`: Tableau workbook containing the project's data visualizations.
